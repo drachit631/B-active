@@ -3,7 +3,7 @@ import React from 'react'
 function Mainrouter() {
     return (
         <div>
-            mainrouter
+            <h3>main router</h3>
         </div>
     )
 }
