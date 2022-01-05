@@ -4,12 +4,13 @@ import Footer from './components/Footer';
 import Homepage from './components/Homepage';
 import Mainrouter from './components/Mainrouter';
 import './App.css';
+import Userprofile from './components/Userprofile';
 
 function App() {
   return (
     <div>
     <Header />
-    <Mainrouter />
+    <Userprofile/>
     </div>
   );
 }
