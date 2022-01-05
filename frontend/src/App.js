@@ -5,9 +5,9 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-    <Header />
-    <Userprofile/>
+    <div className="App" style={{'minHeight':'100vh','height':'100%'}}>
+      <Header/>
+      <Userprofile/>
     </div>
   );
 }

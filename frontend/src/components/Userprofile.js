@@ -3,7 +3,7 @@ import React from 'react'
 function Userprofile() {
     return (
         <div>
-            <Avatar alt="user_avatar" src="" />
+            userprofile
         </div>
     )
 }
