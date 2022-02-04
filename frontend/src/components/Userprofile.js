@@ -5,6 +5,6 @@ function Userprofile() {
         <div>
             <h2>User profile</h2>
         </div>
-    )
+    );
 }
-export default Userprofile
+export default Userprofile;
